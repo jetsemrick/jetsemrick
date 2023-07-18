@@ -1,5 +1,5 @@
 # About Me:
-I am currently a student at the University of Kansas studying computer science and economics. Recently, I have been focusing on learning Python and machine learning techniques.
+I am a recent graduate of the University of Kansas with degrees in computer science and economics. Recently, I have been focusing on learning Python and machine learning techniques.
 
 Currently, open to work and looking to join a cool and innovative team. 
 
