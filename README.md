@@ -1,5 +1,5 @@
 # About Me:
-I am a recent graduate of the University of Kansas with degrees in computer science and economics. Recently, I have been focusing on learning Python and machine learning techniques.
+I am a graduate student at Cornell University. Previously, I studied computer science and economics at the University of Kansas. Recently, I have been focusing on machine learning, optimization, and quantitative trading.
 
 Currently, open to work and looking to join a cool and innovative team. 
 
