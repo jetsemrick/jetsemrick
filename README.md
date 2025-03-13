@@ -1,7 +1,5 @@
 # About Me:
-I am a graduate student at Cornell University. Previously, I studied computer science and economics at the University of Kansas. Recently, I have been focusing on machine learning, optimization, and quantitative trading.
-
-Currently, open to work and looking to join a cool and innovative team. 
+I am CTO at Avallon. We build AI agents for the auto and freight insurance industry. I studied operations research at **Cornell University** (graduate) and computer science/econ at the **University of Kansas** (undergraduate). My areas of interest are agentic software design, quantitative trading, and sports statistics.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jetsemrick) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jetsemrick) 
