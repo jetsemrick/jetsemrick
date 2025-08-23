@@ -1,5 +1,5 @@
 # About Me:
-I am a co-founder at Avallon. We build AI agents for insurance industry. I studied operations research at **Cornell University** (graduate) and computer science/econ at the **University of Kansas** (undergraduate). My areas of interest are agentic software design, quantitative trading, policy debate, and sports statistics.
+I co-founded a YC company, Avallon. I studied operations research at **Cornell University** (graduate) and computer science/econ at the **University of Kansas** (undergraduate). My areas of interest are agentic software design, quantitative trading, policy debate, and sports statistics.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jetsemrick) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jetsemrick) 
